@@ -19,8 +19,13 @@ I used it to predict the Chicago Bulls' record by using stats from a month or tw
 
 ### Folder Contents
 -Team Stats Per Game & Team Summaries .csv files that I concatenated into nbaR.csv and eventually wrangled into nbaR2.csv
+
 -I used both R & Python as you will see Final Project Code(.R & .ipynb)
+
 -NBA Presentation is my slideshow
+
 -Streamlit.py has my interactive application
+
 -Theme.zip is the powerpoint theme (credit to the creator in my slideshow)
+
 -model.pkl was used to create the Streamlit application
